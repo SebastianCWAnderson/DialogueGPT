@@ -6,14 +6,15 @@ DialogueGPT is a project that fuses together multiple different hardware and sof
 
 In order to use DialogueGPT; you must have an OpenAI API key, which you can get [here.](https://platform.openai.com/)
 
+---
 
-### Purpose and Benefits
+### **Purpose and Benefits**
 
 DialogueGPT serves as a 'bridge' between the OpenAI GPT API and the user; utilizing both hardware and software components. The purpose of the project is to change the medium of communication with the LLM; using voice input instead of keyboard input.
 
 The purpose of DialogueGPT is to demonstrate the capabilities of OpenAI's language model, in generating contextually relevant responses in conversational settings. By developing this project, we aim to showcase the potential applications of conversational AI and provide an interactive platform for users to engage in dialogue with an AI model.
 
-**The main benefits of DialogueGPT are the following:**
+### **The main benefits of DialogueGPT are the following:**
 
 - Streamlined User Experience
     
