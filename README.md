@@ -38,7 +38,9 @@ OpenAI is a hybrid non-profit/for-profit company based in San Francisco, Califor
 
 **What is the 'GPT API?'**
 
-In March 2023, OpenAI published a research paper on their newest Large Language Model, called GPT-4. GPT is, in summary, a LLM that has been trained on a large corpus of training data, in this case, text collected and scraped from the internet. According to OpenAI, their GPT models have been trained on books, text documents, articles, websites and all other sorts of tokens (words and characters)
+In March 2023, OpenAI published a research paper on their newest Large Language Model, called GPT-4. GPT is, in summary, a LLM that has been trained on a large corpus of training data, in this case, text collected and scraped from the internet. According to OpenAI, their GPT models have been trained on books, text documents, articles, websites and all other sorts of tokens (words and characters).
+
+You can read more about GPTs [here.](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) 
 
 ---
 
