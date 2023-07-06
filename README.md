@@ -1,4 +1,4 @@
-# DialogueGPT
+# DialogueGPT (Web Application)
 
 ## Project Description
 
