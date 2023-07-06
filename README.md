@@ -2,7 +2,7 @@
 
 ## Project Description
 
-DialogueGPT is a project that fuses together multiple different hardware and software components into one cohesive product. It uses OpenAI' GPT (_Generative Pre-Trained Transformer_) LLM (large language model) to create a 'dialogue' between the user and the LLM.
+DialogueGPT is a web application that fuses together multiple different hardware and software components into one cohesive product. It uses OpenAI' GPT (_Generative Pre-Trained Transformer_) LLM (large language model) to create a 'dialogue' between the user and the LLM.
 
 In order to use DialogueGPT; you must have an OpenAI API key, which you can get [here.](https://platform.openai.com/)
 
@@ -10,7 +10,7 @@ In order to use DialogueGPT; you must have an OpenAI API key, which you can get 
 
 ### **Purpose and Benefits**
 
-DialogueGPT serves as a 'bridge' between the OpenAI GPT API and the user; utilizing both hardware and software components. The purpose of the project is to change the medium of communication with the LLM; using voice input instead of keyboard input.
+DialogueGPT serves as a 'bridge' between the OpenAI GPT API and the user; allowing for seamless dialogue between humans and LLMs. The purpose of the project is to change the medium of communication with the LLM; using voice input instead of keyboard input.
 
 The purpose of DialogueGPT is to demonstrate the capabilities of OpenAI's language model, in generating contextually relevant responses in conversational settings. By developing this project, we aim to showcase the potential applications of conversational AI and provide an interactive platform for users to engage in dialogue with an AI model.
 
